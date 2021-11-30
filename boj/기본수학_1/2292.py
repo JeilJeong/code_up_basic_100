@@ -6,11 +6,12 @@
 # 61 - 38 + 1 = 24
 
 n = int(input())
-six_sum = 0
+six_sum = 1
 i = 1
-while True:
-    six_sum += 6 * i
-    i += 1
-    if (n <= six_sum):
-        break
+if (n != 1):
+    while True:
+        six_sum += 6 * i
+        i += 1
+        if (n <= six_sum):
+            break
 print(i)
