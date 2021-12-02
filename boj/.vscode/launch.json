@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main_1330",
+            "request": "launch",
+            "mainClass": "Main_1330",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_2588",
+            "request": "launch",
+            "mainClass": "Main_2588",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_10430",
+            "request": "launch",
+            "mainClass": "Main_10430",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_10869",
+            "request": "launch",
+            "mainClass": "Main_10869",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_1008",
+            "request": "launch",
+            "mainClass": "Main_1008",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_10998",
+            "request": "launch",
+            "mainClass": "Main_10998",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_1001",
+            "request": "launch",
+            "mainClass": "Main_1001",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_2557",
+            "request": "launch",
+            "mainClass": "Main_2557",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_2557",
+            "request": "launch",
+            "mainClass": "main_2557",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "boj_333532b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "jdkpath": "C:\\Program Files\\Zulu\\zulu-11\\bin"
+        }
+    ]
+}
