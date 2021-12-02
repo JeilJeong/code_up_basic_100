@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "입출력과 사칙연산",
-        "if문"
+        "if문",
+        "for문"
     ]
 }
