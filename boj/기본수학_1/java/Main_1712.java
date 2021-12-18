@@ -13,6 +13,7 @@ public class Main_1712 {
         int price = Integer.parseInt(st.nextToken());
 
         int profit = price - extra_cost;
+        // to avoid 'divide by zero'
         if (profit <= 0) {
             System.out.println(-1);
             return;
