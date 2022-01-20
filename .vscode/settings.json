@@ -2,11 +2,12 @@
     "java.project.sourcePaths": [
         "real_test/21_12_19",
         "boj/함수/java",
+        "boj/재귀/java",
         "boj/입출력과 사칙연산",
         "boj/문자열/java",
         "boj/기본수학_2/java",
         "boj/기본수학_1/java",
         "boj/1차원 배열/java",
-        "boj/재귀/java"
+        "boj/브루트포스/java"
     ]
 }
