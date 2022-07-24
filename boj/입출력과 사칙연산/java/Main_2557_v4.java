@@ -1,3 +1,5 @@
+package java;
+
 public class Main_2557_v4 {
     public static void main(String[] args) {
 
