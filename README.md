@@ -9,5 +9,5 @@ This is for preparing coding test.
 ### activated
 
 1) 2021/03 ~ 2021/03
-2) 2021/11 ~
-
+2) 2021/11 ~ 2021/12
+3) 2022/05 ~
